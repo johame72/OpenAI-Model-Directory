@@ -1,5 +1,5 @@
 # OpenAI-API-Model-List
-'OpenAI API Model List' is a simple Python program RUN in Terminal to see what OpenAI models are available to that specific API key.
+'OpenAI Model Directory' is a simple Python program RUN in Terminal to see what OpenAI models are available to that specific API key.
 
 Sure, let's give it a makeover:
 
@@ -7,13 +7,13 @@ Sure, let's give it a makeover:
 
 # 📜 OpenAI Model Directory
 
-Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly check the list of models available for your OpenAI API key when executed in the terminal.
+Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly check the models available for your OpenAI API key when executed in the terminal.
 
 ## 📌 Highlights
 
 Based on the metadata provided, `gpt-4` stands out as the most advanced model:
 
-🔸 Recent Model ID suggests it's newer than models like `gpt-3.5-turbo` and `davinci`.
+🔸 Recent Model ID suggests it's newer than `gpt-3.5-turbo` and `davinci`.
 
 🔸 Owned by the primary "openai", indicating it's not a test model.
 
