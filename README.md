@@ -14,7 +14,7 @@ Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly 
 
 Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (indicating 16 billion parameters), none mention "32k" for 32 billion parameters.
 
-## 🗃️ Model List
+## 🗃️ Personal Favorite Model List
 
 | Model Name | Owner | Created Date | Permissions | Root Model |
 |------------|-------|--------------|-------------|------------|
