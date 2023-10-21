@@ -41,7 +41,6 @@ Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (in
 
 ---
 
-This format provides a cleaner presentation, integrated with emojis for a bit of flair and quick identification of sections. The table has been rewritten with an index for easy referencing, but for brevity, I used ellipses (`...`) in the sample above. You should continue with the rest of the models in the actual document.
 
 Here is an indexed table format of the available model information:
 
