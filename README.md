@@ -12,7 +12,32 @@ Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly 
 
 ### `gpt-4` stands out as the most advanced model:
 
-Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (indicating 16 billion parameters), none mention "32k" for 32 billion parameters.
+Example program output:
+
+    {
+      "created": 1687882411,
+      "id": "gpt-4",
+      "object": "model",
+      "owned_by": "openai",
+      "parent": null,
+      "permission": [
+        {
+          "allow_create_engine": false,
+          "allow_fine_tuning": false,
+          "allow_logprobs": false,
+          "allow_sampling": false,
+          "allow_search_indices": false,
+          "allow_view": false,
+          "created": 1697654848,
+          "group": null,
+          "id": "modelperm-OO7KOdfYKac98TMlgT8IGLB0",
+          "is_blocking": false,
+          "object": "model_permission",
+          "organization": "*"
+        }
+      ],
+      "root": "gpt-4"
+    },
 
 ## 🗃️ Personal Favorite Model List
 
