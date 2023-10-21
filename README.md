@@ -43,7 +43,7 @@
 
 ---
 
-💡 Here is an indexed table format of the available model information:
+💡 Here is a table of the available OpenAI models for my organization's API key:
 
 | Model ID | Owner | Created Date | Permissions | Root Model |
 |-|-|-|-|-|  
