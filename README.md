@@ -37,12 +37,11 @@ Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (in
 ... [Continue with the rest of the models]
 | 48 | text-curie-edit-001 | openai | 1649852284 | allow_view, allow_sampling, allow_logprobs | text-curie-edit-001 |
 
-💡 Note: You can use the "Index" for quick referencing while utilizing this directory.
 
 ---
 
 
-Here is an indexed table format of the available model information:
+💡 Here is an indexed table format of the available model information:
 
 | Model ID | Model Name | Owner | Created Date | Permissions | Root Model |
 |-|-|-|-|-|-|  
