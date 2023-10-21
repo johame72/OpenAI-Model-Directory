@@ -1,4 +1,4 @@
-# OpenAI-API-Model-List
+# OpenAI-Model-Directory
 'OpenAI Model Directory' is a simple Python program RUN in Terminal to see what OpenAI models are available to that specific API key.
 
 Sure, let's give it a makeover:
