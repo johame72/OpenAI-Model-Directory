@@ -1,12 +1,8 @@
-# 🤖 OpenAI-Model-Directory
+# 🤖 OpenAI-Model-Directory 📜 
 
-'OpenAI Model Directory' is a simple 🐍 Python program you can 🚀 RUN in Terminal to see what 🧠 OpenAI models are available for your specific 🔑 API key.
+'OpenAI Model Directory' is a simple 🐍 Python program you can 🚀 RUN in Terminal to see what 🧠 OpenAI models are available for your specific 🔑 API key. This Python utility lets you quickly check the models available for your OpenAI API key when executed in the terminal.
 
 ---
-
-# 📜 OpenAI Model Directory
-
-Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly check the models available for your OpenAI API key when executed in the terminal.
 
 ## 📌 Highlights
 
