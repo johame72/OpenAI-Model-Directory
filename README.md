@@ -10,7 +10,7 @@ Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly 
 
 ## 📌 Highlights
 
-### `gpt-4` stands out as the most advanced model, see file output example below:
+### `gpt-4` stands out as the most advanced model; see the file output example below:
 
     {
       "created": 1687882411,
