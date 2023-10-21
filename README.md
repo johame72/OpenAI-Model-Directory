@@ -14,35 +14,19 @@ Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly 
 
 ## 📌 Highlights
 
-Based on the metadata provided, `gpt-4` stands out as the most advanced model:
-
-🔸 Recent Model ID suggests it's newer than `gpt-3.5-turbo` and `davinci`.
-
-🔸 Owned by the primary "openai", indicating it's not a test model.
-
-🔸 Limited permissions suggest its powerful capabilities with tight access restrictions.
-
-🔸 The naming convention aligns with top-tier models.
-
-🔸 It's a standalone model, not a derivative of older models.
+### `gpt-4` stands out as the most advanced model:
 
 Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (indicating 16 billion parameters), none mention "32k" for 32 billion parameters.
 
 ## 🗃️ Model List
 
-| Index | Model Name | Owner | Created Date | Permissions | Root Model |
-|-------|------------|-------|--------------|-------------|------------|
-| 1 | ada | openai | 1649358449 | allow_view, allow_sampling, allow_logprobs | ada |
-| 2 | ada-code-edit-001 | openai | 1649917674 | allow_view, allow_sampling, allow_logprobs | ada-code-edit-001 |
-| 3 | ada-code-search-code | openai-dev | 1651172505 | allow_view, allow_sampling, allow_logprobs, allow_search_indices | ada-code-search-code |
-... [Many rows here for the models in between]
-| 32 | gpt-4 | openai | 1687882411 |  | gpt-4 |
-... [Continue with the rest of the models]
-| 48 | text-curie-edit-001 | openai | 1649852284 | allow_view, allow_sampling, allow_logprobs | text-curie-edit-001 |
-
+| Model Name | Owner | Created Date | Permissions | Root Model |
+|------------|-------|--------------|-------------|------------|
+| gpt-3.5-turbo-16k |  | openai-internal | 1683758102 | allow_view, allow_sampling, allow_logprobs | gpt-3.5-turbo-16k |  
+| davinci-002 |  | system | 1692634301 | allow_view, allow_sampling, allow_logprobs | davinci-002 |
+| gpt-4 | openai | 1687882411 |  | gpt-4 |
 
 ---
-
 
 💡 Here is an indexed table format of the available model information:
 
