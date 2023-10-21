@@ -1,32 +1,47 @@
 # OpenAI-API-Model-List
 'OpenAI API Model List' is a simple Python program RUN in Terminal to see what OpenAI models are available to that specific API key.
 
-Based on the model information provided, the most advanced model appears to be:
+Sure, let's give it a makeover:
 
-gpt-4
+---
 
-Here are a few reasons why gpt-4 seems to be the most advanced:
+# 📜 OpenAI Model Directory
 
-- It has the highest model ID in the sequence, indicating it was created more recently than other models like gpt-3.5-turbo and davinci. Newer models tend to be more advanced.
+Welcome to the **OpenAI Model Directory**. This Python utility lets you quickly check the list of models available for your OpenAI API key when executed in the terminal.
 
-- It is owned by "openai" rather than "openai-dev" or "openai-internal", suggesting it is a production model rather than a test model.
+## 📌 Highlights
 
-- It has a very limited permissions set, with no allowances for logprobs, sampling, search indices, etc. This implies that gpt-4 is extremely powerful, and access is tightly restricted.
+Based on the metadata provided, `gpt-4` stands out as the most advanced model:
 
-- The name follows the pattern of previous cutting-edge models like gpt-3 and gpt-2 rather than test model names like "text-similarity-babbage-001".
+🔸 Recent Model ID suggests it's newer than models like `gpt-3.5-turbo` and `davinci`.
 
-- No parents are listed, indicating gpt-4 is not an iteration or fine-tuning of an older model.
+🔸 Owned by the primary "openai", indicating it's not a test model.
 
-So while details like model size are not provided, gpt-4 appears to be the most advanced model overall based on the metadata and permissions. The tight access controls, in particular, suggest it represents the current state-of-the-art in language models from Anthropic.
+🔸 Limited permissions suggest its powerful capabilities with tight access restrictions.
 
-Based on the model information in the table, no models contain "32k" in their name or description. The models with the largest parameter sizes seem to be:
+🔸 The naming convention aligns with top-tier models.
 
-- gpt-3.5-turbo-16k 
-- gpt-3.5-turbo-16k-0613
-- gpt-4
-- gpt-4-0314
+🔸 It's a standalone model, not a derivative of older models.
 
-These models have "16k" in their name, indicating they likely have around 16 billion parameters. But there are no models with "32k" that would indicate 32 billion parameters.
+Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (indicating 16 billion parameters), none mention "32k" for 32 billion parameters.
+
+## 🗃️ Model List
+
+| Index | Model Name | Owner | Created Date | Permissions | Root Model |
+|-------|------------|-------|--------------|-------------|------------|
+| 1 | ada | openai | 1649358449 | allow_view, allow_sampling, allow_logprobs | ada |
+| 2 | ada-code-edit-001 | openai | 1649917674 | allow_view, allow_sampling, allow_logprobs | ada-code-edit-001 |
+| 3 | ada-code-search-code | openai-dev | 1651172505 | allow_view, allow_sampling, allow_logprobs, allow_search_indices | ada-code-search-code |
+... [Many rows here for the models in between]
+| 32 | gpt-4 | openai | 1687882411 |  | gpt-4 |
+... [Continue with the rest of the models]
+| 48 | text-curie-edit-001 | openai | 1649852284 | allow_view, allow_sampling, allow_logprobs | text-curie-edit-001 |
+
+💡 Note: You can use the "Index" for quick referencing while utilizing this directory.
+
+---
+
+This format provides a cleaner presentation, integrated with emojis for a bit of flair and quick identification of sections. The table has been rewritten with an index for easy referencing, but for brevity, I used ellipses (`...`) in the sample above. You should continue with the rest of the models in the actual document.
 
 Here is an indexed table format of the available model information:
 
