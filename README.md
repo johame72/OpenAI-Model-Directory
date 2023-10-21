@@ -16,11 +16,11 @@ Note: Even though there are models like `gpt-3.5-turbo-16k` which have "16k" (in
 
 ## 🗃️ Personal Favorite Model List
 
-| Model Name | Owner | Created Date | Permissions | Root Model |
-|------------|-------|--------------|-------------|------------|
-| gpt-3.5-turbo-16k |  | openai-internal | 1683758102 | allow_view, allow_sampling, allow_logprobs | gpt-3.5-turbo-16k |  
-| davinci-002 |  | system | 1692634301 | allow_view, allow_sampling, allow_logprobs | davinci-002 |
-| gpt-4 | openai | 1687882411 |  | gpt-4 |
+| Model Name | Owner | Created Date | Permissions |
+|------------|-------|--------------|-------------|
+| gpt-3.5-turbo-16k | openai-internal | 1683758102 | allow_view, allow_sampling, allow_logprobs |
+| davinci-002 | system | 1692634301 | allow_view, allow_sampling, allow_logprobs |
+| gpt-4 | openai | 1687882411 |  |
 
 ---
 
